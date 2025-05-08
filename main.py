@@ -3,8 +3,8 @@ from datetime import datetime
 import random
 import os
 
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-bot = telebot.TeleBot(TOKEN)
+TOKEN = os.getenv("8072658630:AAFafvZi8EF0Qkjjzacv0lfkB5W9A1zHwUg")
+bot = telebot.TeleBot(8072658630:AAFafvZi8EF0Qkjjzacv0lfkB5W9A1zHwUg)
 
 users = {}
 
